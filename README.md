@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayan !!</h1>
+<h1 align="center">Hi 👋, I'm Ayan!!</h1>
 <h3 align="center">Pursuing a Bachelor of Engineering in Information Technology from Jadavpur University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayan101203&label=Profile%20views&color=0e75b6&style=flat" alt="ayan101203" /> </p>
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/@ayan101203" target="blank"><img src="https://img.shields.io/twitter/follow/@ayan101203?logo=twitter&style=for-the-badge" alt="@ayan101203" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Full Stack Development, DevOps tools, Cloud platforms (AWS/GCP)**
+- 🌱 I’m currently learning **Data Structures and Algorithms, Full Stack Development, DevOps tools, Cloud platforms (AWS)**
 
 - 📫 How to reach me **ghoshayan101203@gmail.com**
 
-- ⚡ Fun fact **I debug my code more than I sleep 😄**
+- ⚡ Fun fact: **I debug my code more than I sleep 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
